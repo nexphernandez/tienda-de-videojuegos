@@ -99,3 +99,38 @@ PS C:\Users\nico\Documents\tienda-de-videojuegos> git branch
 * verion-1
 ```
 
+## 5.Subir la nueva rama al repositorio remoto.
+
+Me equivoco al poner el nombre de la rama y tengo que modificarla.
+
+```Code
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git push -u origin version-1
+error: src refspec version-1 does not match any
+error: failed to push some refs to 'https://github.com/nexphernandez/tienda-de-videojuegos'
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git branch -m version-1
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git branch
+  main
+* version-1
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git push -u origin version-1
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 24 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 1.76 KiB | 900.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+remote:
+remote: Create a pull request for 'version-1' on GitHub by visiting:
+remote:      https://github.com/nexphernandez/tienda-de-videojuegos/pull/new/version-1
+remote:
+To https://github.com/nexphernandez/tienda-de-videojuegos
+ * [new branch]      version-1 -> version-1
+branch 'version-1' set up to track 'origin/version-1'.
+PS C:\Users\nico\Documents\tienda-de-videojuegos>
+```
+
+## 6.Agregar cambios y hacer commit:
+
+```Code
+
+```
