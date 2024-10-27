@@ -80,3 +80,22 @@ Already up to date.
 ```
 
 ## 2.Crear la nueva rama para la version 1:
+
+```Code
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git add .
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git commit -m "Se añade el archivo issue y se añade los pasos seguidos."
+[main d3a1718] Se añade el archivo issue y se añade los pasos seguidos.
+ 1 file changed, 82 insertions(+)
+ create mode 100644 Issue.md
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git checkout -b verion-1
+Switched to a new branch 'verion-1'
+```
+
+## 4.Verificar la rama actual.
+
+```Code
+PS C:\Users\nico\Documents\tienda-de-videojuegos> git branch
+  main
+* verion-1
+```
+
