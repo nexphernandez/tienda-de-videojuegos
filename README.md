@@ -15,3 +15,29 @@ Habrá un aplicación para comprar los juegos por internet, donde los usuarios r
 
 3. Sistema de compra / venta :
 Se encarga de enviar notificaciones a los usuario de que la compra se ha realizado con exito.
+
+## Operadores
+
+### Usuario General
+
+* Registrarse: Crea una cuenta para la app.
+
+* Buscar juegos: Busqueda de juego por la app.
+
+* Poner comentarios: Comentar los juegos y puntuarlos
+
+* Gestionarr su perfil: Modificar su foto, cambiar la direccion, etc
+
+* Solicitar soporte: Pedir ayuda al soporte tecnico
+
+## Administrador
+
+* Gestionar contenido: actualiza, elimina o modifica el contenido
+
+* Gestionar el soporte tecnico: responde a las preguntas formuladas por los usuarios
+
+* Mantenimieto: Mantenimiento de la aplicacion en general
+
+* Gestionar publicidad: Organiza la publicidad de la pagina web
+
+* Verificar registro: Comprueba que los registros son correctos
