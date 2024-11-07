@@ -41,3 +41,4 @@ Se encarga de enviar notificaciones a los usuario de que la compra se ha realiza
 * Gestionar publicidad: Organiza la publicidad de la pagina web
 
 * Verificar registro: Comprueba que los registros son correctos
+
