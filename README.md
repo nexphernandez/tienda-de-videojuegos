@@ -3,5 +3,6 @@ Habrá un aplicación para comprar los juegos por internet, donde los usuarios r
 
 ## Índice
 
-1. [Images](images/empthy.txte)
+1. [Images](images/empthy.txt)
 
+## Definición de Actores y Operaciones
