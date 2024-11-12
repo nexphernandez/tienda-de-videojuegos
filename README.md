@@ -1,7 +1,7 @@
 # tienda-de-videojuegos
 Habrá un aplicación para comprar los juegos por internet, donde los usuarios recibirán la licencia para poder descargar el juego y un programa para cobrar en la tienda física los productos vendidos.Ademas tendrá una sección para vender cosmeticos.
 
-
+<img src="images/Diagrama tienda de videojuegos.drawio.png">
 
 ## Especificación de Actores y Operaciones
 
@@ -28,6 +28,8 @@ Se encarga de enviar notificaciones a los usuario de que la compra se ha realiza
 
 * Solicitar soporte: Pedir ayuda al soporte tecnico
 
+* Comprar juego: Comprar licencia del juego. 
+
 ## Administrador
 
 * Gestionar contenido: actualiza, elimina o modifica el contenido
@@ -39,4 +41,12 @@ Se encarga de enviar notificaciones a los usuario de que la compra se ha realiza
 * Gestionar publicidad: Organiza la publicidad de la pagina web
 
 * Verificar registro: Comprueba que los registros son correctos
+
+## Sistema de notificaciones
+
+* Validar cuenta: Mandar mensaje de validacion al correo
+
+* Enviar solicitud: Enviar solicitud de registo
+
+* Notificar compra: Notificar que la compra se ha realizado con exito
 
