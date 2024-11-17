@@ -186,7 +186,7 @@ Habrá un aplicación para comprar los juegos por internet, donde los usuarios r
 
 #### Verificar registro
 
-|  Caso de Uso	CU.3 | Verificar registro |
+|  Caso de Uso	CU.4 | Verificar registro |
   |---|---|
   | Fuentes  | Este caso de uso se sustenta gracias al [documeto](). |
   | Actor  | Administrador |
@@ -200,11 +200,59 @@ Habrá un aplicación para comprar los juegos por internet, donde los usuarios r
 
 ## Sistema de notificaciones
 
-* Validar cuenta: Mandar mensaje de validacion al correo.
+#### Validar cuenta
 
-* Enviar solicitud: Enviar solicitud de registo.
+|  Caso de Uso	CU.1 | Validar cuenta |
+  |---|---|
+  | Fuentes  | Este caso de uso se sustenta gracias al [documeto](). |
+  | Actor  | Sistema de notificaciones |
+  | Descripción | Se encarga de verificar que la cueta se haya creado correctamente ||
+  | Pre-condiciones | |  
+  | Post-condiciones  | |  
+  |  Requerimientos | |
+  |  Notas |  |
+  | Autor  | nexphernandez |
+  |Fecha | 05/11/2024|
 
-* Notificar compra: Notificar que la compra se ha realizado con exito.
+#### Notificar compra
 
-* Validar comentario: Verifica que los comentarios no incluyas faltas de respeto.
+|  Caso de Uso	CU.2 | Notificar compra |
+  |---|---|
+  | Fuentes  | Este caso de uso se sustenta gracias al [documeto](). |
+  | Actor  | Sistema de notificaciones |
+  | Descripción | Se encarga de notificar al usuaruio si la compra se ha realizado correctamente ||
+  | Pre-condiciones | |  
+  | Post-condiciones  | |  
+  |  Requerimientos | |
+  |  Notas |  |
+  | Autor  | nexphernandez |
+  |Fecha | 05/11/2024|
+
+#### Enviar solicitud
+
+|  Caso de Uso	CU.3 | Recibir solicitud |
+  |---|---|
+  | Fuentes  | Este caso de uso se sustenta gracias al [documeto](). |
+  | Actor  | Sistema de notificaciones |
+  | Descripción | Se encarga de recibir la solicitud de soporte ||
+  | Pre-condiciones | |  
+  | Post-condiciones  | |  
+  |  Requerimientos | |
+  |  Notas |  |
+  | Autor  | nexphernandez |
+  |Fecha | 05/11/2024|
+
+#### Validar comentario
+
+|  Caso de Uso	CU.1 | Validar comentario |
+  |---|---|
+  | Fuentes  | Este caso de uso se sustenta gracias al [documeto](). |
+  | Actor  | Sistema de notificaciones |
+  | Descripción | Se encarga de verificar que los comentarios no incluyan faltas de respeto ||
+  | Pre-condiciones | |  
+  | Post-condiciones  | |  
+  |  Requerimientos | |
+  |  Notas |  |
+  | Autor  | nexphernandez |
+  |Fecha | 05/11/2024|
 
