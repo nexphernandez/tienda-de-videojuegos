@@ -3,7 +3,7 @@ Habrá un aplicación para comprar los juegos por internet, donde los usuarios r
 
 ## Índice
 
-<img src="images/Diagrama tienda de videojuegos.drawio.png">
+<img src="docs/diseño/diagramas/Diagrama tienda de videojuegos.drawio.png">
 
 ## Especificación de Actores y Operaciones
 
