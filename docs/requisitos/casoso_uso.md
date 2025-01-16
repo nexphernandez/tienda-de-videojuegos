@@ -1,5 +1,6 @@
+## Diagrama de casos de uso
 
-<img src="../diseño/diagramas/Diagrama tienda de videojuegos.drawio.png">
+<img src="../diseño/diagramas/CasosDeUso.drawio.png">
 
 ## Especificación de Actores y Operaciones
 
@@ -252,3 +253,6 @@
   | Autor  | nexphernandez |
   |Fecha | 05/11/2024|
 
+## Diagrama de Paquetes
+
+<img src="../diseño/diagramas/Paquetes.drawio.png">
