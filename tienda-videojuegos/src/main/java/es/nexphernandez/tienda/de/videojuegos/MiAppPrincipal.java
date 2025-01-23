@@ -1,6 +1,6 @@
 package es.nexphernandez.tienda.de.videojuegos;
 
-public class Main {
+public class MiAppPrincipal {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
