@@ -6,9 +6,9 @@ import java.util.Objects;
  */
 public class JuegoView {
 
-    String nombre;
-    String codigo;
-    String genero;
+    private String nombre;
+    private String codigo;
+    private String genero;
 
     /**
      * Constructor vacio

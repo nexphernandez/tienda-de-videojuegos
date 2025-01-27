@@ -5,9 +5,9 @@ import java.util.Objects;
  * @version 1.0.0
  */
 public class JuegoModel {
-    String codigo;
-    String nombre;
-    String genero;
+    private String codigo;
+    private String nombre;
+    private String genero;
 
     /**
      * Constructor vacio
